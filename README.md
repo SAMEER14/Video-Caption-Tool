@@ -22,4 +22,3 @@ Start
 │   ├── Allow pause/play controls  
 │  
 └── End  
->>>>>>> 4d002cb (Initial Commit)
