@@ -22,3 +22,7 @@ Start
 │   ├── Allow pause/play controls  
 │  
 └── End  
+
+Header Component
+Video Input Component - to insert video link and store it in redux store
+Video Player Component - the inserted video will display on UI
