@@ -1,6 +1,6 @@
 //This takes link for video url and puts in store
 
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { useDispatch } from 'react-redux';
 import { setVideoUrl } from '../Redux/slices/VideoSlice';
 

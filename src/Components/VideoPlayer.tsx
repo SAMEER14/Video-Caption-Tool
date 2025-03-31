@@ -1,6 +1,6 @@
 //This fetches video URL from redux store and displays the Video on UI
 
-import React,{useState} from 'react'
+import {useState} from 'react'
 import ReactPlayer from "react-player";
 import { useSelector } from 'react-redux';
 import { RootState } from '../Redux/Store';
